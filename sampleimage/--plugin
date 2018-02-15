@@ -5,7 +5,6 @@ For command-line tools, use tools\bin\sdkmanager.bat
 and tools\bin\avdmanager.bat
 **************************************************************************
 
-Invalid or unsupported command "https://github.com/Telerik-Verified-Plugins/Amazon-AWS --variable ACCESS_KEY=AKIAJFGUDK273OW6KCZQ --variable SECRET_KEY=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"
 
 Supported commands are:
 android list target
